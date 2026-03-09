@@ -1,0 +1,247 @@
+year,sector,specialist_non-specialist,count,type
+2006,Public,na,3505,""
+2006,Private,na,2966,""
+2006,Not In Active Practice,na,460,""
+2007,Public,na,3991,""
+2007,Private,na,3004,""
+2007,Not In Active Practice,na,469,""
+2008,Public,Specialist,1723,""
+2008,Public,Non-Specialist,2574,""
+2008,Private,Specialist,1046,""
+2008,Private,Non-Specialist,2005,""
+2008,Not In Active Practice,Specialist,193,""
+2008,Not In Active Practice,Non-Specialist,300,""
+2009,Public,Specialist,1855,""
+2009,Public,Non-Specialist,2755,""
+2009,Private,Specialist,1082,""
+2009,Private,Non-Specialist,2041,""
+2009,Not In Active Practice,Specialist,243,""
+2009,Not In Active Practice,Non-Specialist,347,""
+2010,Public,Specialist,1996,""
+2010,Public,Non-Specialist,3184,""
+2010,Private,Specialist,1151,""
+2010,Private,Non-Specialist,2159,""
+2010,Not In Active Practice,Specialist,227,""
+2010,Not In Active Practice,Non-Specialist,313,""
+2011,Public,Specialist,2165,""
+2011,Public,Non-Specialist,3456,""
+2011,Private,Specialist,1229,""
+2011,Private,Non-Specialist,2220,""
+2011,Not In Active Practice,Specialist,241,""
+2011,Not In Active Practice,Non-Specialist,335,""
+2012,Public,Specialist,2342,""
+2012,Public,Non-Specialist,3789,""
+2012,Private,Specialist,1293,""
+2012,Private,Non-Specialist,2222,""
+2012,Not In Active Practice,Specialist,232,""
+2012,Not In Active Practice,Non-Specialist,347,""
+2013,Public,Specialist,2511,""
+2013,Public,Non-Specialist,4150,""
+2013,Private,Specialist,1351,""
+2013,Private,Non-Specialist,2327,""
+2013,Not In Active Practice,Specialist,262,""
+2013,Not In Active Practice,Non-Specialist,352,""
+2014,Public,Specialist,2829,""
+2014,Public,Non-Specialist,4501,""
+2014,Private,Specialist,1411,""
+2014,Private,Non-Specialist,2379,""
+2014,Not In Active Practice,Specialist,245,""
+2014,Not In Active Practice,Non-Specialist,368,""
+2015,Public,Specialist,3052,""
+2015,Public,Non-Specialist,4857,""
+2015,Private,Specialist,1470,""
+2015,Private,Non-Specialist,2444,""
+2015,Not In Active Practice,Specialist,266,""
+2015,Not In Active Practice,Non-Specialist,370,""
+2016,Public,Specialist,3299,""
+2016,Public,Non-Specialist,5059,""
+2016,Private,Specialist,1485,""
+2016,Private,Non-Specialist,2494,""
+2016,Not In Active Practice,Specialist,263,""
+2016,Not In Active Practice,Non-Specialist,367,""
+2017,Public,Specialist,3523,""
+2017,Public,Non-Specialist,5050,""
+2017,Private,Specialist,1528,""
+2017,Private,Non-Specialist,2579,""
+2017,Not In Active Practice,Specialist,287,""
+2017,Not In Active Practice,Non-Specialist,419,""
+2018,Public,Specialist,3741,""
+2018,Public,Non-Specialist,5078,""
+2018,Private,Specialist,1565,""
+2018,Private,Non-Specialist,2660,""
+2018,Not In Active Practice,Specialist,309,""
+2018,Not In Active Practice,Non-Specialist,413,""
+2019,Public,Specialist,3864,""
+2019,Public,Non-Specialist,5166,""
+2019,Private,Specialist,1682,""
+2019,Private,Non-Specialist,2757,""
+2019,Not In Active Practice,Specialist,335,""
+2019,Not In Active Practice,Non-Specialist,475,""
+2006,Public Sector,"",8495,Registered Nurses
+2006,Private Sector,"",4566,Registered Nurses
+2006,Not in Active Practice,"",2391,Registered Nurses
+2006,Public Sector,"",2956,Enrolled Nurses
+2006,Private Sector,"",1484,Enrolled Nurses
+2006,Not in Active Practice,"",723,Enrolled Nurses
+2006,Public Sector,"",123,Registered Midwives
+2006,Private Sector,"",59,Registered Midwives
+2006,Not in Active Practice,"",130,Registered Midwives
+2007,Public Sector,"",9068,Registered Nurses
+2007,Private Sector,"",4477,Registered Nurses
+2007,Not in Active Practice,"",2959,Registered Nurses
+2007,Public Sector,"",3110,Enrolled Nurses
+2007,Private Sector,"",1559,Enrolled Nurses
+2007,Not in Active Practice,"",935,Enrolled Nurses
+2007,Public Sector,"",116,Registered Midwives
+2007,Private Sector,"",76,Registered Midwives
+2007,Not in Active Practice,"",32,Registered Midwives
+2008,Public Sector,"",10113,Registered Nurses
+2008,Private Sector,"",4656,Registered Nurses
+2008,Not in Active Practice,"",3112,Registered Nurses
+2008,Public Sector,"",3488,Enrolled Nurses
+2008,Private Sector,"",1488,Enrolled Nurses
+2008,Not in Active Practice,"",1030,Enrolled Nurses
+2008,Public Sector,"",110,Registered Midwives
+2008,Private Sector,"",80,Registered Midwives
+2008,Not in Active Practice,"",132,Registered Midwives
+2009,Public Sector,"",11534,Registered Nurses
+2009,Private Sector,"",4831,Registered Nurses
+2009,Not in Active Practice,"",3368,Registered Nurses
+2009,Public Sector,"",4043,Enrolled Nurses
+2009,Private Sector,"",1561,Enrolled Nurses
+2009,Not in Active Practice,"",1161,Enrolled Nurses
+2009,Public Sector,"",98,Registered Midwives
+2009,Private Sector,"",71,Registered Midwives
+2009,Not in Active Practice,"",125,Registered Midwives
+2010,Public Sector,"",12994,Registered Nurses
+2010,Private Sector,"",5140,Registered Nurses
+2010,Not in Active Practice,"",3441,Registered Nurses
+2010,Public Sector,"",4525,Enrolled Nurses
+2010,Private Sector,"",1757,Enrolled Nurses
+2010,Not in Active Practice,"",1196,Enrolled Nurses
+2010,Public Sector,"",94,Registered Midwives
+2010,Private Sector,"",68,Registered Midwives
+2010,Not in Active Practice,"",125,Registered Midwives
+2011,Public Sector,"",14494,Registered Nurses
+2011,Private Sector,"",5661,Registered Nurses
+2011,Not in Active Practice,"",3443,Registered Nurses
+2011,Public Sector,"",4661,Enrolled Nurses
+2011,Private Sector,"",1979,Enrolled Nurses
+2011,Not in Active Practice,"",1229,Enrolled Nurses
+2011,Public Sector,"",95,Registered Midwives
+2011,Private Sector,"",69,Registered Midwives
+2011,Not in Active Practice,"",118,Registered Midwives
+2012,Public Sector,"",15916,Registered Nurses
+2012,Private Sector,"",6321,Registered Nurses
+2012,Not in Active Practice,"",3734,Registered Nurses
+2012,Public Sector,"",4995,Enrolled Nurses
+2012,Private Sector,"",2027,Enrolled Nurses
+2012,Not in Active Practice,"",1252,Enrolled Nurses
+2012,Public Sector,"",89,Registered Midwives
+2012,Private Sector,"",65,Registered Midwives
+2012,Not in Active Practice,"",108,Registered Midwives
+2013,Public Sector,"",16738,Registered Nurses
+2013,Private Sector,"",6716,Registered Nurses
+2013,Not in Active Practice,"",4102,Registered Nurses
+2013,Public Sector,"",4890,Enrolled Nurses
+2013,Private Sector,"",2049,Enrolled Nurses
+2013,Not in Active Practice,"",1334,Enrolled Nurses
+2013,Public Sector,"",79,Registered Midwives
+2013,Private Sector,"",61,Registered Midwives
+2013,Not in Active Practice,"",106,Registered Midwives
+2014,Public Sector,"",17667,Registered Nurses
+2014,Private Sector,"",6863,Registered Nurses
+2014,Not in Active Practice,"",4334,Registered Nurses
+2014,Public Sector,"",5006,Enrolled Nurses
+2014,Private Sector,"",2078,Enrolled Nurses
+2014,Not in Active Practice,"",1444,Enrolled Nurses
+2014,Public Sector,"",71,Registered Midwives
+2014,Private Sector,"",61,Registered Midwives
+2014,Not in Active Practice,"",94,Registered Midwives
+2015,Public Sector,"",18566,Registered Nurses
+2015,Private Sector,"",7356,Registered Nurses
+2015,Not in Active Practice,"",3972,Registered Nurses
+2015,Public Sector,"",5305,Enrolled Nurses
+2015,Private Sector,"",2377,Enrolled Nurses
+2015,Not in Active Practice,"",1249,Enrolled Nurses
+2015,Public Sector,"",71,Registered Midwives
+2015,Private Sector,"",51,Registered Midwives
+2015,Not in Active Practice,"",58,Registered Midwives
+2016,Public Sector,"",19618,Registered Nurses
+2016,Private Sector,"",7616,Registered Nurses
+2016,Not in Active Practice,"",4381,Registered Nurses
+2016,Public Sector,"",5149,Enrolled Nurses
+2016,Private Sector,"",2322,Enrolled Nurses
+2016,Not in Active Practice,"",1310,Enrolled Nurses
+2016,Public Sector,"",62,Registered Midwives
+2016,Private Sector,"",47,Registered Midwives
+2016,Not in Active Practice,"",56,Registered Midwives
+2017,Public Sector,"",20313,Registered Nurses
+2017,Private Sector,"",8002,Registered Nurses
+2017,Not in Active Practice,"",4357,Registered Nurses
+2017,Public Sector,"",5020,Enrolled Nurses
+2017,Private Sector,"",2301,Enrolled Nurses
+2017,Not in Active Practice,"",1310,Enrolled Nurses
+2017,Public Sector,"",55,Registered Midwives
+2017,Private Sector,"",41,Registered Midwives
+2017,Not in Active Practice,"",41,Registered Midwives
+2018,Public Sector,"",20734,Registered Nurses
+2018,Private Sector,"",8441,Registered Nurses
+2018,Not in Active Practice,"",4439,Registered Nurses
+2018,Public Sector,"",4854,Enrolled Nurses
+2018,Private Sector,"",2241,Enrolled Nurses
+2018,Not in Active Practice,"",1299,Enrolled Nurses
+2018,Public Sector,"",48,Registered Midwives
+2018,Private Sector,"",29,Registered Midwives
+2018,Not in Active Practice,"",40,Registered Midwives
+2019,Public Sector,"",21373,Registered Nurses
+2019,Private Sector,"",8943,Registered Nurses
+2019,Not in Active Practice,"",4293,Registered Nurses
+2019,Public Sector,"",4663,Enrolled Nurses
+2019,Private Sector,"",2206,Enrolled Nurses
+2019,Not in Active Practice,"",1190,Enrolled Nurses
+2019,Public Sector,"",43,Registered Midwives
+2019,Private Sector,"",31,Registered Midwives
+2019,Not in Active Practice,"",35,Registered Midwives
+2006,Public Sector,"",449,""
+2006,Private Sector,"",832,""
+2006,Not in Active Practice,"",140,""
+2007,Public Sector,"",484,""
+2007,Private Sector,"",865,""
+2007,Not in Active Practice,"",134,""
+2008,Public Sector,"",555,""
+2008,Private Sector,"",858,""
+2008,Not in Active Practice,"",133,""
+2009,Public Sector,"",630,""
+2009,Private Sector,"",890,""
+2009,Not in Active Practice,"",138,""
+2010,Public Sector,"",712,""
+2010,Private Sector,"",931,""
+2010,Not in Active Practice,"",171,""
+2011,Public Sector,"",842,""
+2011,Private Sector,"",978,""
+2011,Not in Active Practice,"",193,""
+2012,Public Sector,"",934,""
+2012,Private Sector,"",1048,""
+2012,Not in Active Practice,"",190,""
+2013,Public Sector,"",1082,""
+2013,Private Sector,"",1104,""
+2013,Not in Active Practice,"",190,""
+2014,Public Sector,"",1179,""
+2014,Private Sector,"",1174,""
+2014,Not in Active Practice,"",210,""
+2015,Public Sector,"",1307,""
+2015,Private Sector,"",1221,""
+2015,Not in Active Practice,"",229,""
+2016,Public Sector,"",1367,""
+2016,Private Sector,"",1248,""
+2016,Not in Active Practice,"",260,""
+2017,Public Sector,"",1472,""
+2017,Private Sector,"",1344,""
+2017,Not in Active Practice,"",231,""
+2018,Public Sector,"",1535,""
+2018,Private Sector,"",1367,""
+2018,Not in Active Practice,"",314,""
+2019,Public Sector,"",1616,""
+2019,Private Sector,"",1444,""
+2019,Not in Active Practice,"",348,""

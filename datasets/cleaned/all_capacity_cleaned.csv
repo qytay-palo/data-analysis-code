@@ -1,0 +1,277 @@
+year,institution_type,facility_type_a,public_private,no_of_facilities,no_beds,sector,facility_type_b
+2009,Hospital,Acute,Public,7,6416,"",""
+2009,Hospital,Acute,Not-for-Profit,1,303,"",""
+2009,Hospital,Acute,Private,6,1570,"",""
+2009,Hospital,Psychiatric Hospitals,Public,1,2040,"",""
+2009,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2009,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2009,Hospital,Community Hospitals,Public,0,0,"",""
+2009,Hospital,Community Hospitals,Not-for-Profit,5,819,"",""
+2009,Hospital,Community Hospitals,Private,1,58,"",""
+2009,Residential Long-Term,Nursing Homes,Public,0,0,"",""
+2009,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6262,"",""
+2009,Residential Long-Term,Nursing Homes,Private,30,3180,"",""
+2009,Residential Long-Term,Inpatient Hospices,Public,0,0,"",""
+2009,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,129,"",""
+2009,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2010,Hospital,Acute,Public,8,6871,"",""
+2010,Hospital,Acute,Not-for-Profit,1,283,"",""
+2010,Hospital,Acute,Private,6,1095,"",""
+2010,Hospital,Psychiatric Hospitals,Public,1,2010,"",""
+2010,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2010,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2010,Hospital,Community Hospitals,Public,0,0,"",""
+2010,Hospital,Community Hospitals,Not-for-Profit,5,818,"",""
+2010,Hospital,Community Hospitals,Private,1,24,"",""
+2010,Residential Long-Term,Nursing Homes,Public,0,0,"",""
+2010,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6293,"",""
+2010,Residential Long-Term,Nursing Homes,Private,32,3258,"",""
+2010,Residential Long-Term,Inpatient Hospices,Public,0,0,"",""
+2010,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,123,"",""
+2010,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2011,Hospital,Acute,Public,8,6925,"",""
+2011,Hospital,Acute,Not-for-Profit,1,283,"",""
+2011,Hospital,Acute,Private,6,1096,"",""
+2011,Hospital,Psychiatric Hospitals,Public,1,2010,"",""
+2011,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2011,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2011,Hospital,Community Hospitals,Public,1,100,"",""
+2011,Hospital,Community Hospitals,Not-for-Profit,4,680,"",""
+2011,Hospital,Community Hospitals,Private,1,20,"",""
+2011,Residential Long-Term,Nursing Homes,Public,1,250,"",""
+2011,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6137,"",""
+2011,Residential Long-Term,Nursing Homes,Private,32,3303,"",""
+2011,Residential Long-Term,Inpatient Hospices,Public,0,32,"",""
+2011,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,"",""
+2011,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2012,Hospital,Acute,Public,8,7170,"",""
+2012,Hospital,Acute,Not-for-Profit,1,283,"",""
+2012,Hospital,Acute,Private,8,1272,"",""
+2012,Hospital,Psychiatric Hospitals,Public,1,2010,"",""
+2012,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2012,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2012,Hospital,Community Hospitals,Public,1,100,"",""
+2012,Hospital,Community Hospitals,Not-for-Profit,4,722,"",""
+2012,Hospital,Community Hospitals,Private,1,20,"",""
+2012,Residential Long-Term,Nursing Homes,Public,1,202,"",""
+2012,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6119,"",""
+2012,Residential Long-Term,Nursing Homes,Private,32,3400,"",""
+2012,Residential Long-Term,Inpatient Hospices,Public,0,48,"",""
+2012,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,"",""
+2012,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2013,Hospital,Acute,Public,8,7377,"",""
+2013,Hospital,Acute,Not-for-Profit,1,283,"",""
+2013,Hospital,Acute,Private,8,1279,"",""
+2013,Hospital,Psychiatric Hospitals,Public,1,2010,"",""
+2013,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2013,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2013,Hospital,Community Hospitals,Public,1,110,"",""
+2013,Hospital,Community Hospitals,Not-for-Profit,4,722,"",""
+2013,Hospital,Community Hospitals,Private,1,20,"",""
+2013,Residential Long-Term,Nursing Homes,Public,5,1230,"",""
+2013,Residential Long-Term,Nursing Homes,Not-for-Profit,28,5924,"",""
+2013,Residential Long-Term,Nursing Homes,Private,33,3684,"",""
+2013,Residential Long-Term,Inpatient Hospices,Public,0,48,"",""
+2013,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,"",""
+2013,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2014,Hospital,Acute,Public,8,7652,"",""
+2014,Hospital,Acute,Not-for-Profit,1,283,"",""
+2014,Hospital,Acute,Private,9,1327,"",""
+2014,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2014,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2014,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2014,Hospital,Community Hospitals,Public,1,142,"",""
+2014,Hospital,Community Hospitals,Not-for-Profit,4,905,"",""
+2014,Hospital,Community Hospitals,Private,1,18,"",""
+2014,Residential Long-Term,Nursing Homes,Public,6,1372,"",""
+2014,Residential Long-Term,Nursing Homes,Not-for-Profit,27,6021,"",""
+2014,Residential Long-Term,Nursing Homes,Private,32,3575,"",""
+2014,Residential Long-Term,Inpatient Hospices,Public,0,40,"",""
+2014,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,"",""
+2014,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2015,Hospital,Acute,Public,9,8128,"",""
+2015,Hospital,Acute,Not-for-Profit,1,316,"",""
+2015,Hospital,Acute,Private,9,1400,"",""
+2015,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2015,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2015,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2015,Hospital,Community Hospitals,Public,3,503,"",""
+2015,Hospital,Community Hospitals,Not-for-Profit,4,961,"",""
+2015,Hospital,Community Hospitals,Private,0,0,"",""
+2015,Residential Long-Term,Nursing Homes,Public,11,2488,"",""
+2015,Residential Long-Term,Nursing Homes,Not-for-Profit,26,5802,"",""
+2015,Residential Long-Term,Nursing Homes,Private,34,3895,"",""
+2015,Residential Long-Term,Inpatient Hospices,Public,0,40,"",""
+2015,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,"",""
+2015,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2016,Hospital,Acute,Public,9,8561,"",""
+2016,Hospital,Acute,Not-for-Profit,1,316,"",""
+2016,Hospital,Acute,Private,9,1441,"",""
+2016,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2016,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2016,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2016,Hospital,Community Hospitals,Public,3,690,"",""
+2016,Hospital,Community Hospitals,Not-for-Profit,4,961,"",""
+2016,Hospital,Community Hospitals,Private,1,12,"",""
+2016,Residential Long-Term,Nursing Homes,Public,13,3110,"",""
+2016,Residential Long-Term,Nursing Homes,Not-for-Profit,26,6058,"",""
+2016,Residential Long-Term,Nursing Homes,Private,30,3854,"",""
+2016,Residential Long-Term,Inpatient Hospices,Public,0,24,"",""
+2016,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,149,"",""
+2016,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2017,Hospital,Acute,Public,9,8623,"",""
+2017,Hospital,Acute,Not-for-Profit,1,271,"",""
+2017,Hospital,Acute,Private,8,1446,"",""
+2017,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2017,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2017,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2017,Hospital,Community Hospitals,Public,3,690,"",""
+2017,Hospital,Community Hospitals,Not-for-Profit,4,969,"",""
+2017,Hospital,Community Hospitals,Private,1,4,"",""
+2017,Residential Long-Term,Nursing Homes,Public,20,5281,"",""
+2017,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5872,"",""
+2017,Residential Long-Term,Nursing Homes,Private,30,3765,"",""
+2017,Residential Long-Term,Inpatient Hospices,Public,0,24,"",""
+2017,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,"",""
+2017,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2018,Hospital,Acute,Public,10,9071,"",""
+2018,Hospital,Acute,Not-for-Profit,1,273,"",""
+2018,Hospital,Acute,Private,8,1482,"",""
+2018,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2018,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2018,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2018,Hospital,Community Hospitals,Public,4,799,"",""
+2018,Hospital,Community Hospitals,Not-for-Profit,4,979,"",""
+2018,Hospital,Community Hospitals,Private,0,0,"",""
+2018,Residential Long-Term,Nursing Homes,Public,21,5581,"",""
+2018,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5953,"",""
+2018,Residential Long-Term,Nursing Homes,Private,28,3671,"",""
+2018,Residential Long-Term,Inpatient Hospices,Public,0,24,"",""
+2018,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,"",""
+2018,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2019,Hospital,Acute,Public,10,9404,"",""
+2019,Hospital,Acute,Not-for-Profit,1,288,"",""
+2019,Hospital,Acute,Private,8,1629,"",""
+2019,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2019,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2019,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2019,Hospital,Community Hospitals,Public,5,974,"",""
+2019,Hospital,Community Hospitals,Not-for-Profit,4,1012,"",""
+2019,Hospital,Community Hospitals,Private,0,0,"",""
+2019,Residential Long-Term,Nursing Homes,Public,23,6238,"",""
+2019,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5963,"",""
+2019,Residential Long-Term,Nursing Homes,Private,31,3858,"",""
+2019,Residential Long-Term,Inpatient Hospices,Public,0,24,"",""
+2019,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,"",""
+2019,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2020,Hospital,Acute,Public,10,9610,"",""
+2020,Hospital,Acute,Not-for-Profit,1,285,"",""
+2020,Hospital,Acute,Private,8,1650,"",""
+2020,Hospital,Psychiatric Hospitals,Public,1,1950,"",""
+2020,Hospital,Psychiatric Hospitals,Not-for-Profit,0,0,"",""
+2020,Hospital,Psychiatric Hospitals,Private,0,0,"",""
+2020,Hospital,Community Hospitals,Public,5,1130,"",""
+2020,Hospital,Community Hospitals,Not-for-Profit,4,939,"",""
+2020,Hospital,Community Hospitals,Private,0,0,"",""
+2020,Residential Long-Term,Nursing Homes,Public,24,6391,"",""
+2020,Residential Long-Term,Nursing Homes,Not-for-Profit,22,5963,"",""
+2020,Residential Long-Term,Nursing Homes,Private,31,3867,"",""
+2020,Residential Long-Term,Inpatient Hospices,Public,4,60,"",""
+2020,Residential Long-Term,Inpatient Hospices,Not-for-Profit,6,193,"",""
+2020,Residential Long-Term,Inpatient Hospices,Private,0,0,"",""
+2009,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2009,Primary Care Facilities,"","",1628,0,Private,General Practioner Clinics
+2009,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2009,Dental Clinics,"","",5,0,Public,Hospital/Institution Dental Clinic
+2009,Dental Clinics,"","",226,0,Public,School Dental Clinics
+2009,Dental Clinics,"","",582,0,Private,Private Dental Clinics
+2009,Pharmacies,"","",58,0,Public,Public Pharmacies
+2009,Pharmacies,"","",153,0,Private,Private Pharmacies
+2010,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2010,Primary Care Facilities,"","",1651,0,Private,General Practioner Clinics
+2010,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2010,Dental Clinics,"","",6,0,Public,Hospital/Institution Dental Clinic
+2010,Dental Clinics,"","",225,0,Public,School Dental Clinics
+2010,Dental Clinics,"","",610,0,Private,Private Dental Clinics
+2010,Pharmacies,"","",58,0,Public,Public Pharmacies
+2010,Pharmacies,"","",168,0,Private,Private Pharmacies
+2011,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2011,Primary Care Facilities,"","",1685,0,Private,General Practioner Clinics
+2011,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2011,Dental Clinics,"","",6,0,Public,Hospital/Institution Dental Clinic
+2011,Dental Clinics,"","",226,0,Public,School Dental Clinics
+2011,Dental Clinics,"","",631,0,Private,Private Dental Clinics
+2011,Pharmacies,"","",56,0,Public,Public Pharmacies
+2011,Pharmacies,"","",193,0,Private,Private Pharmacies
+2012,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2012,Primary Care Facilities,"","",1743,0,Private,General Practioner Clinics
+2012,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2012,Dental Clinics,"","",6,0,Public,Hospital/Institution Dental Clinic
+2012,Dental Clinics,"","",225,0,Public,School Dental Clinics
+2012,Dental Clinics,"","",660,0,Private,Private Dental Clinics
+2012,Pharmacies,"","",50,0,Public,Public Pharmacies
+2012,Pharmacies,"","",195,0,Private,Private Pharmacies
+2013,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2013,Primary Care Facilities,"","",1805,0,Private,General Practioner Clinics
+2013,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2013,Dental Clinics,"","",6,0,Public,Hospital/Institution Dental Clinic
+2013,Dental Clinics,"","",221,0,Public,School Dental Clinics
+2013,Dental Clinics,"","",694,0,Private,Private Dental Clinics
+2013,Pharmacies,"","",51,0,Public,Public Pharmacies
+2013,Pharmacies,"","",196,0,Private,Private Pharmacies
+2014,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2014,Primary Care Facilities,"","",1868,0,Private,General Practioner Clinics
+2014,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2014,Dental Clinics,"","",6,0,Public,Hospital/Institution Dental Clinic
+2014,Dental Clinics,"","",233,0,Public,School Dental Clinics
+2014,Dental Clinics,"","",722,0,Private,Private Dental Clinics
+2014,Pharmacies,"","",63,0,Public,Public Pharmacies
+2014,Pharmacies,"","",190,0,Private,Private Pharmacies
+2015,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2015,Primary Care Facilities,"","",1933,0,Private,General Practioner Clinics
+2015,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2015,Dental Clinics,"","",7,0,Public,Hospital/Institution Dental Clinic
+2015,Dental Clinics,"","",232,0,Public,School Dental Clinics
+2015,Dental Clinics,"","",792,0,Private,Private Dental Clinics
+2015,Pharmacies,"","",62,0,Public,Public Pharmacies
+2015,Pharmacies,"","",170,0,Private,Private Pharmacies
+2016,Primary Care Facilities,"","",18,0,Public,Polyclinics
+2016,Primary Care Facilities,"","",2025,0,Private,General Practioner Clinics
+2016,Dental Clinics,"","",9,0,Public,Polyclinic Dental Clinics
+2016,Dental Clinics,"","",8,0,Public,Hospital/Institution Dental Clinic
+2016,Dental Clinics,"","",236,0,Public,School Dental Clinics
+2016,Dental Clinics,"","",835,0,Private,Private Dental Clinics
+2016,Pharmacies,"","",62,0,Public,Public Pharmacies
+2016,Pharmacies,"","",173,0,Private,Private Pharmacies
+2017,Primary Care Facilities,"","",20,0,Public,Polyclinics
+2017,Primary Care Facilities,"","",2116,0,Private,General Practioner Clinics
+2017,Dental Clinics,"","",10,0,Public,Polyclinic Dental Clinics
+2017,Dental Clinics,"","",9,0,Public,Hospital/Institution Dental Clinic
+2017,Dental Clinics,"","",233,0,Public,School Dental Clinics
+2017,Dental Clinics,"","",863,0,Private,Private Dental Clinics
+2017,Pharmacies,"","",62,0,Public,Public Pharmacies
+2017,Pharmacies,"","",181,0,Private,Private Pharmacies
+2018,Primary Care Facilities,"","",20,0,Public,Polyclinics
+2018,Primary Care Facilities,"","",2222,0,Private,General Practioner Clinics
+2018,Dental Clinics,"","",10,0,Public,Polyclinic Dental Clinics
+2018,Dental Clinics,"","",8,0,Public,Hospital/Institution Dental Clinic
+2018,Dental Clinics,"","",228,0,Public,School Dental Clinics
+2018,Dental Clinics,"","",876,0,Private,Private Dental Clinics
+2018,Pharmacies,"","",68,0,Public,Public Pharmacies
+2018,Pharmacies,"","",190,0,Private,Private Pharmacies
+2019,Primary Care Facilities,"","",20,0,Public,Polyclinics
+2019,Primary Care Facilities,"","",2304,0,Private,General Practioner Clinics
+2019,Dental Clinics,"","",10,0,Public,Polyclinic Dental Clinics
+2019,Dental Clinics,"","",8,0,Public,Hospital/Institution Dental Clinic
+2019,Dental Clinics,"","",228,0,Public,School Dental Clinics
+2019,Dental Clinics,"","",851,0,Private,Private Dental Clinics
+2019,Pharmacies,"","",67,0,Public,Public Pharmacies
+2019,Pharmacies,"","",189,0,Private,Private Pharmacies
+2020,Primary Care Facilities,"","",20,0,Public,Polyclinics
+2020,Primary Care Facilities,"","",2343,0,Private,General Practioner Clinics
+2020,Dental Clinics,"","",10,0,Public,Polyclinic Dental Clinics
+2020,Dental Clinics,"","",8,0,Public,Hospital/Institution Dental Clinic
+2020,Dental Clinics,"","",227,0,Public,School Dental Clinics
+2020,Dental Clinics,"","",862,0,Private,Private Dental Clinics
+2020,Pharmacies,"","",66,0,Public,Public Pharmacies
+2020,Pharmacies,"","",193,0,Private,Private Pharmacies
